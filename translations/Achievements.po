@@ -18,7 +18,7 @@ msgid "Stone Breaker"
 msgstr "Rompi Pietra"
 
 msgid "Break {0} blocks with the {1}."
-msgstr "Rompi {0} blocchi con lo {1}."
+msgstr "Rompi {0} blocchi con il {1}."
 
 msgid "Journeyman Miner"
 msgstr "Minatore specializzato"
@@ -45,18 +45,18 @@ msgid "Legendary Miner"
 msgstr "Minatore legendario"
 
 msgid "Stone Digger"
-msgstr "spcava pietre"
+msgstr "Scava pietre"
 
 msgid ""
 "[00FF00]Achievement Complete!\n"
 "{0}[-]"
 msgstr ""
-"[00FF00]Realizzazione \n"
-" Complete!\n"
+"[00FF00]Obiettivo \n"
+" Completato!\n"
 "{0}[-]"
 
 msgid "Heroic Blockster"
-msgstr "Gigante eroico"
+msgstr "Blockster eroico"
 
 msgid "Break {0} blocks."
 msgstr "Rompi {0} blocchi."
@@ -65,22 +65,22 @@ msgid "Stone Miner"
 msgstr "Minatore di Pietra"
 
 msgid "Stone Chopper"
-msgstr "Pietra chopper"
+msgstr "Intagliatore di Pietra"
 
 msgid "Apprentice Miner"
-msgstr "minatore apprendista"
+msgstr "Minatore apprendista"
 
 msgid "Journeyman Blockster"
-msgstr "blockster specializzato"
+msgstr "Blockster specializzato"
 
 msgid "Apprentice Blockster"
-msgstr "blockster apprendista"
+msgstr "Blockster apprendista"
 
 msgid "Arachnophobia"
 msgstr "Aracnofobia"
 
 msgid "Reach Level {0}."
-msgstr "Raggiungi livello."
+msgstr "Raggiungi il livello."
 
 msgid "Necrophobia"
 msgstr "Necrofobia"
@@ -89,16 +89,16 @@ msgid "Legendary Blockster"
 msgstr "Blockster leggendario"
 
 msgid "Itsy Bitsy Spider"
-msgstr "il piccolo ragnetto"
+msgstr "Piccolo ragnetto"
 
 msgid "Dragon Slayer"
-msgstr "uccisore di draghi"
+msgstr "Uccisore di draghi"
 
 msgid "Mythical Beast"
-msgstr "bestia mitica"
+msgstr "Bestia mitica"
 
 msgid "Prehistoric Legend"
-msgstr "leggenda preistorica"
+msgstr "Leggenda preistorica"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:38
 # UnityGame/Assets/Localization/BaseTranslation.cs:277
@@ -115,7 +115,7 @@ msgstr "leggenda preistorica"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1492
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:928
 msgid "Professional Hunter"
-msgstr "Cacciatore Professionale"
+msgstr "Cacciatore Professionista"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:38
 # UnityGame/Assets/Localization/BaseTranslation.cs:277
@@ -144,10 +144,10 @@ msgid "Thalassophobia"
 msgstr "Talassofobia"
 
 msgid "Frog Leg Delicacy"
-msgstr "Frog Leg Delicatezza"
+msgstr "Cosce di Rana Prelibate"
 
 msgid "Frog Leg Feast"
-msgstr "Gustose Cosce di Rana"
+msgstr "Banchetto di Cosce di Rana"
 
 msgid "King of Dragons"
 msgstr "Re dei draghi"
@@ -285,7 +285,7 @@ msgstr "3...2...1...Accensione"
 # UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:957
 # UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:472
 msgid "Grand Giveaway"
-msgstr "Grande omaggio"
+msgstr "Grande Omaggio"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:336
@@ -320,7 +320,7 @@ msgstr "Buio"
 
 #, fuzzy
 msgid "World Breaker"
-msgstr "Rompi Pietra"
+msgstr "Spacca-Mondo"
 
 #, fuzzy
 msgid "Stone Lifeform"
@@ -409,7 +409,7 @@ msgstr "Sigillo Vizioso"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Moonlight"
-msgstr "chiaro di luna"
+msgstr "Chiaro di luna"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -480,7 +480,7 @@ msgstr "Raccogli {0}."
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Sandman"
-msgstr "Sandman"
+msgstr "Uomo di sabbia"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -559,7 +559,7 @@ msgstr "Eredità vichinga"
 # UnityGame/Assets/Scripts/Achievements/Achievement.cs:160
 # UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:138
 msgid "Lucky Bottle"
-msgstr "Bottiglia fortunata"
+msgstr "Bottiglia Fortunata"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -599,11 +599,11 @@ msgstr "Vera magia"
 
 #, fuzzy
 msgid "Heroic Pathfinder"
-msgstr "Minatore eroico"
+msgstr "Minatore Eroico"
 
 #, fuzzy
 msgid "Legendary Discoverer"
-msgstr "Minatore legendario"
+msgstr "Minatore Legendario"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -758,7 +758,7 @@ msgstr "Forgiato nello spazio"
 # UnityGame/Assets/Scripts/Achievements/Achievement.cs:160
 # UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:138
 msgid "Wood Piston collector"
-msgstr "Collettore a pistone in legno"
+msgstr "Collezionista del pistone in legno"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -767,7 +767,7 @@ msgstr "Collettore a pistone in legno"
 # UnityGame/Assets/Scripts/Achievements/Achievement.cs:160
 # UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:138
 msgid "Electric Torch collector"
-msgstr "Collettore torcia elettrica"
+msgstr "Collezionista della torcia elettrica"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -776,7 +776,7 @@ msgstr "Collettore torcia elettrica"
 # UnityGame/Assets/Scripts/Achievements/Achievement.cs:160
 # UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:138
 msgid "Light Sensor collector"
-msgstr "Sensore di luce collettore"
+msgstr "Collezionista del sensore di luce"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -785,7 +785,7 @@ msgstr "Sensore di luce collettore"
 # UnityGame/Assets/Scripts/Achievements/Achievement.cs:160
 # UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:138
 msgid "Motion Sensor collector"
-msgstr "Sensore di movimento collettore"
+msgstr "Collezionista del sensore di movimento"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -803,7 +803,7 @@ msgstr "Collezionista di timer"
 # UnityGame/Assets/Scripts/Achievements/Achievement.cs:160
 # UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:138
 msgid "Relay collector"
-msgstr "Collettore relè"
+msgstr "Collezionista del relè"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -812,7 +812,7 @@ msgstr "Collettore relè"
 # UnityGame/Assets/Scripts/Achievements/Achievement.cs:160
 # UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:138
 msgid "Remote Transmitter collector"
-msgstr "Collettore del trasmettitore remoto"
+msgstr "Collezionista del trasmettitore remoto"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -821,7 +821,7 @@ msgstr "Collettore del trasmettitore remoto"
 # UnityGame/Assets/Scripts/Achievements/Achievement.cs:160
 # UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:138
 msgid "Controller collector"
-msgstr "Collettore di controller"
+msgstr "Collezionista del controller"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -830,7 +830,7 @@ msgstr "Collettore di controller"
 # UnityGame/Assets/Scripts/Achievements/Achievement.cs:160
 # UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:138
 msgid "Variable Resistor collector"
-msgstr "Collettore a resistenza variabile"
+msgstr "Collezionista del resistore variabile"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -841,7 +841,7 @@ msgstr "Collettore a resistenza variabile"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayLockedRecipe.cs:17
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:62
 msgid "Piston collector"
-msgstr "Collettore pistone"
+msgstr "Collezionista del pistone"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -858,8 +858,9 @@ msgstr "Collettore pistone"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Diode collector"
-msgstr "Collettore diodi"
+msgstr "Collezionista del diodo"
 
 #, fuzzy
 msgid "Heroic Explorer"
-msgstr "Gigante eroico"
+msgstr "Esploratore eroico"
+
